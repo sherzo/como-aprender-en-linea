@@ -2,7 +2,7 @@
 
 📅 Fecha inicio: 25/04/2020
 
-## 👩‍🏫 Instruído por: Anahí Salgado Díaz de la Vega
+## 👩‍🏫 Instruído por: [Anahí Salgado Díaz de la Vega](https://twitter.com/anncode)
 
 Curso para aprender estrategias que te ayuden a mejorar tu aprendizaje en línea
 
